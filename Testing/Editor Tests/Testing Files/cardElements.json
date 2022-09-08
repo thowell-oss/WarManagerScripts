@@ -1,0 +1,249 @@
+[
+    {
+        "*col": 1,
+        "*other cols": [
+            1,
+            2
+        ],
+        "element version": 2.0,
+        "*type": "text",
+        "*location": [
+            -7,
+            2,
+            1
+        ],
+        "*rotation": [
+            0,
+            0
+        ],
+        "*scale": [
+            1,
+            1
+        ],
+        "*layout": [
+            "nothing to see yet"
+        ],
+        "*properties": "120,20,12,black,left,2",
+        "*critical?": true,
+        "*size": 12,
+        "*bold": false,
+        "*italics": false,
+        "*underline": false,
+        "*strike": false,
+        "*justification": "left",
+        "*overflow": "none",
+        "*rich text": false,
+        "*color": "#111"
+    },
+    {
+        "*col": 3,
+        "*other cols": [
+            -1
+        ],
+        "element version": 2.0,
+        "*type": "glance",
+        "*location": [
+            -7,
+            -3,
+            1
+        ],
+        "*rotation": [
+            0,
+            0
+        ],
+        "*scale": [
+            1,
+            1
+        ],
+        "*layout": [
+            "nothing to see yet"
+        ],
+        "*properties": "1,1,4,3,3,7,right,CommercialRoofing=JR WM Icons\\kc.png:#111,EM385=JR WM Icons\\em385.png:#111,Crew=JR WM Icons\\crew.png:#111,Super=JR WM Icons\\super.png:#111,Foreman=JR WM Icons\\foreman.png:#55aa55,Travel=JR WM Icons\\travel.png:#111",
+        "*critical?": false,
+        "icon size": [
+            3,
+            3
+        ],
+        "max icon count": 4,
+        "flow direction": 0,
+        "glance icons": [
+            {
+                "id": "CommercialRoofing",
+                "path": "JR WM Icons\\kc.png",
+                "color": "#111",
+                "show if tag exists": true
+            },
+            {
+                "id": "EM385",
+                "path": "JR WM Icons\\em385.png",
+                "color": "#111",
+                "show if tag exists": true
+            },
+            {
+                "id": "Crew",
+                "path": "JR WM Icons\\crew.png",
+                "color": "#111",
+                "show if tag exists": true
+            },
+            {
+                "id": "Super",
+                "path": "JR WM Icons\\super.png",
+                "color": "#111",
+                "show if tag exists": true
+            },
+            {
+                "id": "Foreman",
+                "path": "JR WM Icons\\foreman.png",
+                "color": "#55aa55",
+                "show if tag exists": true
+            },
+            {
+                "id": "Travel",
+                "path": "JR WM Icons\\travel.png",
+                "color": "#111",
+                "show if tag exists": true
+            }
+        ]
+    },
+    {
+        "*col": 3,
+        "*other cols": [
+            -1
+        ],
+        "element version": 2.0,
+        "*type": "sticker",
+        "*location": [
+            6,
+            0,
+            1
+        ],
+        "*rotation": [
+            0,
+            0
+        ],
+        "*scale": [
+            1,
+            1
+        ],
+        "*layout": [
+            "nothing to see yet"
+        ],
+        "*properties": "2,2,Crew=Box 1.png:#F118,Foreman=Vertical Bar 1.png:#1a16,Super=Vertical Bar 2.png:#11a8,Project Manager=Vertical Bar 3.png:#6668",
+        "*critical?": false,
+        "stickers": [
+            {
+                "id": "Crew",
+                "path": "Box 1.png",
+                "color": "#F118"
+            },
+            {
+                "id": "Foreman",
+                "path": "Vertical Bar 1.png",
+                "color": "#1a16"
+            },
+            {
+                "id": "Super",
+                "path": "Vertical Bar 2.png",
+                "color": "#11a8"
+            },
+            {
+                "id": "Project Manager",
+                "path": "Vertical Bar 3.png",
+                "color": "#6668"
+            }
+        ]
+    },
+    {
+        "*col": 2,
+        "*other cols": [
+            -1
+        ],
+        "element version": 2.0,
+        "*type": "dial",
+        "*location": [
+            5,
+            0,
+            1
+        ],
+        "*rotation": [
+            0,
+            0
+        ],  
+        "*scale": [
+            1,
+            1
+        ],
+        "*layout": [
+            "nothing to see yet"
+        ],
+        "*properties": "20,20,15,#5fff00,#111,#FFF,100",
+        "*critical?": false,
+        "text color" : "#111",
+        "fall back color" : "#eee",
+        "background color" : "#111",
+        "text font size" : 12,
+        "smallest value" : 0,
+        "largest value" : 100,
+        "dial colors" : [
+            {
+                "color" : "#9f9",
+                "start" : 50
+            }
+        ]
+    },
+    {
+        "*col": 1,
+        "*other cols": [
+            -1
+        ],
+        "element version": 2.0,
+        "*type": "link",
+        "*location": [
+            0,
+            0,
+            1
+        ],
+        "*rotation": [
+            0,
+            0
+        ],
+        "*scale": [
+            1,
+            1
+        ],
+        "*layout": [
+            "nothing to see yet"
+        ],
+        "*properties": "18,8,12,#222,#FFF,2",
+        "*critical?": true,
+        "background color" : "#0000",
+        "font size" : 12
+    },
+    {
+        "col": 0,
+        "*other cols": [
+            -1
+        ],
+        "element version": 2.0,
+        "*type": "background",
+        "*location": [
+            0,
+            0,
+            1
+        ],
+        "*rotation": [
+            0,
+            0
+        ],
+        "*scale": [
+            1,
+            1
+        ],
+        "*layout": [
+            "nothing to see yet"
+        ],
+        "*properties": "#ffeced,4.5,2.3",
+        "*critical?": true,
+        "*color": "#ffeced"
+    }
+]
